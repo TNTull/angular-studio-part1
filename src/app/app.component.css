@@ -1,0 +1,14 @@
+.box {
+   display: flex;
+   padding: 10px;
+   margin: 30px;
+   color: green
+}
+
+.box[_ngcontent-arh-c15] {
+   color: orangered;
+}
+
+.h1 {
+   color: blue;
+}
